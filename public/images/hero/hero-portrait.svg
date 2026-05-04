@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="480" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder foto hero</title>
+  <desc id="desc">Ganti file ini dengan foto utama untuk bagian beranda.</desc>
+  <rect width="360" height="480" fill="#FFF9F5"/>
+  <rect x="28" y="28" width="304" height="424" rx="10" fill="#FDF6F0" stroke="#E8D5B0" stroke-width="4" stroke-dasharray="12 10"/>
+  <circle cx="180" cy="190" r="58" fill="#F2C4C4"/>
+  <path d="M92 394c18-110 158-110 176 0" fill="#C9A96E" opacity=".72"/>
+  <path d="M88 90h184M88 122h130" stroke="#E8D5B0" stroke-width="10" stroke-linecap="round"/>
+  <text x="180" y="432" text-anchor="middle" fill="#2C1810" font-family="Arial, sans-serif" font-size="22" font-weight="700">HERO PHOTO</text>
+</svg>

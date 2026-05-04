@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder creative work</title>
+  <desc id="desc">Ganti file ini dengan foto aktivitas desain atau karya.</desc>
+  <rect width="600" height="600" fill="#FFF9F5"/>
+  <rect x="112" y="134" width="376" height="270" rx="18" fill="#FDF6F0" stroke="#E8D5B0" stroke-width="6"/>
+  <path d="M154 198h190M154 250h292M154 302h230" stroke="#C9A96E" stroke-width="16" stroke-linecap="round" opacity=".58"/>
+  <circle cx="420" cy="198" r="38" fill="#F2C4C4"/>
+  <path d="M208 444h184" stroke="#E8A0A0" stroke-width="18" stroke-linecap="round"/>
+  <text x="300" y="82" text-anchor="middle" fill="#2C1810" font-family="Arial, sans-serif" font-size="28" font-weight="700">CREATIVE WORK</text>
+</svg>

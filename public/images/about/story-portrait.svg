@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait cerita saya</title>
+  <desc id="desc">Ganti file ini dengan foto portrait untuk bagian cerita.</desc>
+  <rect width="560" height="560" fill="#FFF9F5"/>
+  <circle cx="280" cy="230" r="88" fill="#F2C4C4"/>
+  <path d="M152 470c24-92 232-92 256 0" fill="#C9A96E" opacity=".72"/>
+  <circle cx="280" cy="280" r="220" fill="none" stroke="#E8D5B0" stroke-width="8" stroke-dasharray="14 14"/>
+  <text x="280" y="72" text-anchor="middle" fill="#2C1810" font-family="Arial, sans-serif" font-size="28" font-weight="700">STORY PORTRAIT</text>
+</svg>

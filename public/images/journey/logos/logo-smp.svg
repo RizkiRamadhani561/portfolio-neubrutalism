@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder logo SMP</title>
+  <desc id="desc">Ganti file ini dengan logo SMP.</desc>
+  <rect width="160" height="160" rx="80" fill="#FFF9F5"/>
+  <circle cx="80" cy="80" r="62" fill="#FDF6F0" stroke="#E8D5B0" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M46 65l34-17 34 17-34 17-34-17z" fill="#C9A96E" opacity=".78"/>
+  <path d="M58 78v19c11 9 33 9 44 0V78L80 89 58 78z" fill="#E8A0A0" opacity=".64"/>
+  <text x="80" y="123" text-anchor="middle" fill="#2C1810" font-family="Arial, sans-serif" font-size="23" font-weight="700">SMP</text>
+</svg>
