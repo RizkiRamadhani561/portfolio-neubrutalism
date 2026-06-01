@@ -9,6 +9,7 @@ export const ThreeDMarquee = ({
   images: string[];
   className?: string;
 }) => {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
   // Split the images array into 4 equal parts
   const chunkSize = Math.ceil(images.length / 4);
   const chunks = Array.from({ length: 4 }, (_, colIndex) => {
@@ -54,7 +55,7 @@ export const ThreeDMarquee = ({
                         ease: "easeInOut",
                       }}
                       key={imageIndex + image}
-                      src={image}
+                      src={image.startsWith("/") ? `${basePath}${image}` : image}
                       alt={`Image ${imageIndex + 1}`}
                       className="aspect-[970/700] rounded-lg object-cover ring ring-gray-950/5 hover:shadow-2xl"
                       width={970}
