@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Diniyatun Islamia, a creative visionary and designer specializing in UI/UX, brand identity, web design, and product design. Crafting premium digital experiences.",
   keywords: [
-    "Diniyatun Islamia",
+    "Lorem Ipsum",
     "Creative Designer",
     "UI/UX Design",
     "Brand Identity",
